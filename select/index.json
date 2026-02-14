@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "おとずれ",
+  "base_artist": "tricot",
+  "createdAt": "2026-02-14T05:47:04.780455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おとずれ",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_おとずれ_tricot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おとずれ",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/pl_01_おとずれ_tricot.txt"
+    }
+  ]
+}
